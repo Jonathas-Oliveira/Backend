@@ -3,6 +3,7 @@
 #### Node.js
 #### Express
 #### uuidv4
+#### nodemon
 
 ### Tools:
 Insomnia
