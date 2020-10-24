@@ -1,0 +1,29 @@
+{
+  "name": "Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathas-Oliveira/Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathas-Oliveira/Backend/issues"
+  },
+  "homepage": "https://github.com/Jonathas-Oliveira/Backend#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "uuidv4": "^6.2.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.6"
+  }
+}
